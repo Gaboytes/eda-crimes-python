@@ -14,4 +14,8 @@ En este proyecto se realizo un analisis exploratorio sobre un dataset de Kaggle 
 
 ### Analysis
 
-----> 
+- [crimenes](https://github.com/Gaboytes/eda-crimes-python/blob/main/data-exploration-Crimes.ipynb)
+
+### DATASET 
+
+- [Kaggle](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston/?select=crime.csv)
